@@ -1,0 +1,787 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "Título": "Capitán América: Primer Vengador",
+      "Año/Eventos": "1943-1945",
+      "Tipo": "Película",
+      "Estado": "Visto",
+      "image": "https://image.tmdb.org/t/p/original/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+      "parent": "Marvel"
+    },
+    {
+      "id": "2",
+      "Título": "Agente Carter [T1]",
+      "Año/Eventos": "1946",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/87059.jpg",
+      "parent": "Marvel"
+    },
+    {
+      "id": "3",
+      "Título": "Agente Carter [T2]",
+      "Año/Eventos": "1947",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/87060.jpg",
+      "parent": "Marvel"
+    },
+    {
+      "id": "4",
+      "Título": "Agente Carter [One Shot]",
+      "Año/Eventos": "1947",
+      "Tipo": "Corto",
+      "Estado": "Pendiente",
+      "image": "/images/148944.jpg",
+      "parent": "Marvel"
+    },
+    {
+      "id": "5",
+      "Título": "Capitana Marvel",
+      "Año/Eventos": "1995, con flashbacks a 1989",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "/images/87233.jpg",
+      "parent": "Marvel"
+    },
+    {
+      "id": "6",
+      "Título": "Iron Man",
+      "Año/Eventos": "2008 – 2010",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "/images/26132.jpg",
+      "parent": "Marvel"
+    },
+    {
+      "id": "7",
+      "Título": "Iron Man 2",
+      "Año/Eventos": "2011",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "/images/26134.jpg",
+      "parent": "Marvel"
+    },
+    {
+      "id": "8",
+      "Título": "El increíble Hulk",
+      "Año/Eventos": "2008 (comienza la \"Semana de Furia\")",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "/images/202157.jpg",
+      "parent": "Marvel"
+    },
+    {
+      "id": "9",
+      "Título": "El Consultor [One Shot]",
+      "Año/Eventos": "2011",
+      "Tipo": "Corto",
+      "Estado": "Pendiente",
+      "image": "/images/17893.jpg",
+      "parent": "Marvel"
+    },
+    {
+      "id": "10",
+      "Título": "Algo divertido ocurrió de camino al martillo de Thor [One Shot]",
+      "Año/Eventos": "2011",
+      "Tipo": "Corto",
+      "Estado": "Pendiente",
+      "image": "/images/148942.jpg",
+      "parent": "Marvel"
+    },
+    {
+      "id": "11",
+      "Título": "Thor",
+      "Año/Eventos": "2011 (termina la \"Semana de Furia\")",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "/images/26135.jpg",
+      "parent": "Marvel"
+    },
+    {
+      "id": "12",
+      "Título": "Los Vengadores",
+      "Año/Eventos": "2012",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "/images/162901.jpg",
+      "parent": "Marvel"
+    },
+    {
+      "id": "13",
+      "Título": "Artículo 47 [One Shot]",
+      "Año/Eventos": "2012",
+      "Tipo": "Corto",
+      "Estado": "Pendiente",
+      "image": "/images/147866.jpg",
+      "parent": "Marvel"
+    },
+    {
+      "id": "14",
+      "Título": "Iron Man 3",
+      "Año/Eventos": "2013",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "/images/26138.jpg",
+      "parent": "Marvel"
+    },
+    {
+      "id": "15",
+      "Título": "Agentes de SHIELD [1x01–07]",
+      "Año/Eventos": "2013",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/126115.jpg",
+      "parent": "Marvel"
+    },
+    {
+      "id": "16",
+      "Título": "Todos aclaman al rey [One Shot]",
+      "Año/Eventos": "2014",
+      "Tipo": "Corto",
+      "Estado": "Pendiente",
+      "image": "/images/35770.jpg",
+      "parent": "Marvel"
+    },
+    {
+      "id": "17",
+      "Título": "Thor: El Mundo Oscuro",
+      "Año/Eventos": "2013",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "/images/139861.jpg",
+      "parent": "Marvel"
+    },
+    {
+      "id": "18",
+      "Título": "Agentes de SHIELD [1x08–15]",
+      "Año/Eventos": "2013 – 2014",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/126115.jpg",
+      "parent": "Marvel"
+    },
+    {
+      "id": "19",
+      "Título": "Capitán América: Soldado de Invierno",
+      "Año/Eventos": "2014",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "/images/112974.jpg",
+      "parent": "Marvel"
+    },
+    {
+      "id": "20",
+      "Título": "Agentes de SHIELD [1x16–22]",
+      "Año/Eventos": "2014",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/126115.jpg",
+      "parent": "Marvel"
+    },
+    {
+      "id": "21",
+      "Título": "Guardianes de la Galaxia",
+      "Año/Eventos": "2014",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "/images/26141.jpg",
+      "parent": "Marvel"
+    },
+    {
+      "id": "22",
+      "Título": "Guardianes de la Galaxia Vol. 2",
+      "Año/Eventos": "2017 (3 o 4 meses después de la primera)",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "/images/29329.jpg",
+      "parent": "Marvel"
+    },
+    {
+      "id": "23",
+      "Título": "Daredevil [T1]",
+      "Año/Eventos": "2015 (comienza 18 meses después de Los Vengadores)",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/95846.jpg",
+      "parent": "Marvel"
+    },
+    {
+      "id": "24",
+      "Título": "Agents of SHIELD [2x01–20]",
+      "Año/Eventos": "2014 – 2015",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/126116.jpg",
+      "parent": "Marvel"
+    },
+    {
+      "id": "25",
+      "Título": "Los Vengadores: La Era de Ultrón",
+      "Año/Eventos": "2015",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "/images/29325.jpg",
+      "parent": "Marvel"
+    },
+    {
+      "id": "26",
+      "Título": "Agentes de SHIELD [2x21–22]",
+      "Año/Eventos": "2015",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/126116.jpg",
+      "parent": "Marvel"
+    },
+    {
+      "id": "27",
+      "Título": "Jessica Jones [T1]",
+      "Año/Eventos": "2015",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/146670.jpg",
+      "parent": "Marvel"
+    },
+    {
+      "id": "28",
+      "Título": "Ant‑Man",
+      "Año/Eventos": "2015",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "/images/26143.jpg",
+      "parent": "Marvel"
+    },
+    {
+      "id": "29",
+      "Título": "Agentes de SHIELD [T3 Eps. 1–10]",
+      "Año/Eventos": "2015",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/126117.jpg",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Daredevil [T2]",
+      "Año/Eventos": "2016 (comienza unos seis meses después de T1)",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/95847.jpg",
+      "id": "adc3",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Capitán América: Civil War",
+      "Año/Eventos": "2016 (ocho años después de Iron Man, según La Visión)",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "/images/112978.jpg",
+      "id": "c89c",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Luke Cage [T1]",
+      "Año/Eventos": "2016",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/380356.jpg",
+      "id": "be28",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Iron Fist [T1]",
+      "Año/Eventos": "2016",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/380359.jpg",
+      "id": "0b31",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "The Defenders",
+      "Año/Eventos": "2016",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/87056.jpg",
+      "id": "406e",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Agentes de SHIELD [3x20–22]",
+      "Año/Eventos": "2016",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/126117.jpg",
+      "id": "947f",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Agentes de SHIELD: Slingshot",
+      "Año/Eventos": "",
+      "Tipo": "Webserie",
+      "Estado": "Pendiente",
+      "image": "/images/180488.jpg",
+      "id": "6d5d",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Agentes de SHIELD [T3 Eps. 11–19]",
+      "Año/Eventos": "",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/126117.jpg",
+      "id": "44a2",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Agentes de SHIELD [T4]",
+      "Año/Eventos": "",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/126118.jpg",
+      "id": "79e8",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "The Punisher [T1]",
+      "Año/Eventos": "2016 (al menos seis meses después de DD T2)",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/199116.jpg",
+      "id": "1a69",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Doctor Strange",
+      "Año/Eventos": "2016 – 2017",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "/images/200881.jpg",
+      "id": "c168",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Jessica Jones [T2]",
+      "Año/Eventos": "",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/146671.jpg",
+      "id": "3c02",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Black Panther",
+      "Año/Eventos": "2018 (en las semanas siguientes a la muerte de T'Chaka en Civil War)",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "/images/26149.jpg",
+      "id": "c305",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Viuda Negra",
+      "Año/Eventos": "2017",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "/images/18676.jpg",
+      "id": "dd7c",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Inhumans [T1]",
+      "Año/Eventos": "2017",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/32061.jpg",
+      "id": "0677",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Iron Fist [T2]",
+      "Año/Eventos": "",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/380360.jpg",
+      "id": "a9c3",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Luke Cage [T2]",
+      "Año/Eventos": "",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/380357.jpg",
+      "id": "9c84",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Daredevil [T3]",
+      "Año/Eventos": "",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/95848.jpg",
+      "id": "4afe",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "The Punisher [T2]",
+      "Año/Eventos": "Meses después de la primera y referencian elementos de Daredevil T3",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/199117.jpg",
+      "id": "620b",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Jessica Jones [T3]",
+      "Año/Eventos": "",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/146672.jpg",
+      "id": "160e",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Runaways [T1]",
+      "Año/Eventos": "",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/200680.jpg",
+      "id": "1821",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Runaways [T2]",
+      "Año/Eventos": "Comienza justo después de la T1",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/200681.jpg",
+      "id": "82b6",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Capa y Puñal [T1]",
+      "Año/Eventos": "",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/201099.jpg",
+      "id": "2ac2",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Capa y Puñal [T2]",
+      "Año/Eventos": "",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/201100.jpg",
+      "id": "7e58",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Thor: Ragnarok",
+      "Año/Eventos": "2017 (dos años después de A:AoU)",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "/images/26148.jpg",
+      "id": "6f54",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Spider‑Man: Homecoming",
+      "Año/Eventos": "2018 (supuestamente el curso después de CA:CW, pero también \"8 años después\" de Los Vengadores)",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "/images/139869.jpg",
+      "id": "8017",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Agentes de SHIELD [T5 Parte 2 – Eps. 12–13]",
+      "Año/Eventos": "2017 / 2018",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/126119.jpg",
+      "id": "f8d3",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Agentes de SHIELD [T5 Eps. 14–22]",
+      "Año/Eventos": "En paralelo con Ant‑Man y la Avispa e Infinity War",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/126119.jpg",
+      "id": "edc2",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Ant‑Man y la Avispa",
+      "Año/Eventos": "Dos años después de Civil War",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "/images/18672.jpg",
+      "id": "6977",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Vengadores: Infinity War",
+      "Año/Eventos": "2018 (2 años después de Civil War, 6 desde Los Vengadores)",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "/images/29333.jpg",
+      "id": "4b77",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Agentes de SHIELD [T6]",
+      "Año/Eventos": "",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/126121.jpg",
+      "id": "279f",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Vengadores: Endgame",
+      "Año/Eventos": "2018 – 2023",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "/images/29336.jpg",
+      "id": "6fee",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Agentes de SHIELD [T7]",
+      "Año/Eventos": "",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/126124.jpg",
+      "id": "e8e6",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Bruja Escarlata y Visión",
+      "Año/Eventos": "2023",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/139912.jpg",
+      "id": "f1f1",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Loki",
+      "Año/Eventos": "Indeterminado, entre 2023 y 2012",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/157410.jpg",
+      "id": "521d",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Daredevil Born Again",
+      "Año/Eventos": "2023",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/580266.jpg",
+      "id": "3a81",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Shang‑Chi y la leyenda de los Diez Anillos",
+      "Año/Eventos": "2024",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "/images/155526.jpg",
+      "id": "55d3",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "She‑Hulk: Abogada Hulka",
+      "Año/Eventos": "2024",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/261517.jpg",
+      "id": "08bb",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Falcon y el Soldado de Invierno",
+      "Año/Eventos": "2023 – 2024",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "/images/137513.jpg",
+      "id": "caf1",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Spider‑Man: Lejos de casa",
+      "Año/Eventos": "2024",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "/images/139907.jpg",
+      "id": "fb48",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Spider‑Man: No Way Home",
+      "Año/Eventos": "2024",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "/images/188478.jpg",
+      "id": "2cf7",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Eternals",
+      "Año/Eventos": "2024",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "/images/153777.jpg",
+      "id": "d41e",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Doctor Strange en el Multiverso de la Locura",
+      "Año/Eventos": "2024",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "",
+      "id": "9a7f",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Ojo de Halcón",
+      "Año/Eventos": "Navidad de 2024",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "",
+      "id": "6134",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Echo",
+      "Año/Eventos": "Transcurre 5 meses después de Ojo de Halcón (con flashbacks indeterminados)",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "",
+      "id": "8a59",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Caballero Luna",
+      "Año/Eventos": "Primavera de 2025",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "",
+      "id": "9f4b",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Ms. Marvel",
+      "Año/Eventos": "",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "",
+      "id": "f097",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Thor: Love and Thunder",
+      "Año/Eventos": "Posiblemente 2025",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "",
+      "id": "a0a8",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Black Panther: Wakanda Forever",
+      "Año/Eventos": "2025 (en paralelo a Thor: Love and Thunder)",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "",
+      "id": "30b9",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Thunderbolts",
+      "Año/Eventos": "2025",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "",
+      "id": "e1da",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Invasión secreta",
+      "Año/Eventos": "2025",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "",
+      "id": "a766",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Ant‑Man y la Avispa: Quantumania",
+      "Año/Eventos": "2025 (en paralelo a Black Panther: Wakanda Forever)",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "",
+      "id": "a670",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Capitán América: Brave New World",
+      "Año/Eventos": "2025",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "",
+      "id": "a39b",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Guardianes de la Galaxia: Especial Felices Fiestas",
+      "Año/Eventos": "Navidad de 2025",
+      "Tipo": "Especial",
+      "Estado": "Pendiente",
+      "image": "",
+      "id": "d24e",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Guardianes de la Galaxia – Vol. 3",
+      "Año/Eventos": "Inmediatamente después del Especial de Navidad",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "",
+      "id": "df1b",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "The Marvels",
+      "Año/Eventos": "2026",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "",
+      "id": "0675",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Deadpool y Lobezno",
+      "Año/Eventos": "2028",
+      "Tipo": "Película",
+      "Estado": "Pendiente",
+      "image": "",
+      "id": "f87d",
+      "parent": "Marvel"
+    },
+    {
+      "Título": "Agentes de SHIELD [T5 Parte 1 – \"SHIELD en el espacio\" (Eps. 1–11)]",
+      "Año/Eventos": "2091",
+      "Tipo": "Serie",
+      "Estado": "Pendiente",
+      "image": "",
+      "id": "499a",
+      "parent": "Marvel"
+    }
+  ]
+}

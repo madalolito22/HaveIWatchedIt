@@ -1,0 +1,236 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@400;700&display=swap');
+
+:root {
+  --primary-color: #101010;
+  --secondary-color: #181818;
+  --accent-color: #e50914;
+  --text-color: #f5f5f5;
+  --text-secondary: #aaa;
+  --background-color: #101010;
+  --card-background: #1c1c1c;
+
+  --font-primary: 'Bebas Neue', 'sans-serif';
+  --font-secondary: 'Montserrat', 'sans-serif';
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-secondary);
+  background-color: var(--background-color);
+  color: var(--text-color);
+  line-height: 1.5;
+}
+
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-header {
+  background-color: transparent;
+  padding: 2rem;
+  text-align: center;
+  border-bottom: 1px solid #222;
+}
+
+.app-header h1 {
+  font-family: var(--font-primary);
+  font-size: 4rem;
+  font-weight: normal;
+  margin-bottom: 0.5rem;
+  color: var(--accent-color);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.subtitle {
+  color: var(--text-secondary);
+  font-size: 1.1rem;
+  font-family: var(--font-secondary);
+}
+
+.app-main {
+  flex: 1;
+  padding: 2rem 1rem;
+  max-width: 1800px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.app-footer {
+  background-color: transparent;
+  border-top: 1px solid #222;
+  padding: 2rem;
+  text-align: center;
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+}
+
+/* Movie List Styles */
+.movies-container {
+  padding: 2rem 3rem;
+}
+
+.movies-title {
+  text-align: center;
+  font-family: var(--font-primary);
+  font-size: 3.5rem;
+  font-weight: normal;
+  margin-bottom: 3rem;
+  color: var(--text-color);
+}
+
+.movie-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 2.5rem;
+}
+
+.category-section {
+  margin-bottom: 4rem;
+}
+
+.category-title {
+  font-family: var(--font-primary);
+  font-size: 2.8rem;
+  font-weight: normal;
+  color: var(--text-color);
+  margin-bottom: 2rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--accent-color);
+  display: inline-block;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive Design */
+@media (max-width: 1200px) {
+  .movie-grid {
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  }
+}
+
+@media (max-width: 768px) {
+  .app-main {
+    padding: 1.5rem;
+  }
+  .movies-container {
+    padding: 1.5rem;
+  }
+  .movie-grid {
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 1.5rem;
+  }
+  .app-header h1 {
+    font-size: 3rem;
+  }
+  .movies-title {
+    font-size: 2.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .movies-container {
+    padding: 1rem;
+  }
+  .movie-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+  }
+  .app-header h1 {
+    font-size: 2.5rem;
+  }
+}
+
+.loading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 200px;
+  color: var(--text-color);
+}
+
+.spinner {
+  width: 60px;
+  height: 60px;
+  border-width: 6px;
+  border-style: solid;
+  border-color: var(--secondary-color);
+  border-top-color: var(--accent-color);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin-bottom: 1rem;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.error-container {
+  text-align: center;
+  padding: 3rem;
+  background-color: var(--card-background);
+  border-radius: 12px;
+  margin: 3rem auto;
+  max-width: 600px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.error-container h2 {
+  color: var(--accent-color);
+  margin-bottom: 1rem;
+  font-size: 1.8rem;
+}
+
+.error-container p {
+  color: var(--text-secondary);
+  margin-bottom: 1.5rem;
+}
+
+.error-container button {
+  background-color: var(--accent-color);
+  color: var(--text-color);
+  border: none;
+  padding: 0.8rem 1.5rem;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 1rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.error-container button:hover {
+  background-color: #ff3b44;
+  transform: translateY(-2px);
+}
+
+.loading-placeholder {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--card-background);
+  color: var(--text-color);
+  font-size: 1rem;
+  border-radius: 8px;
+}
+
