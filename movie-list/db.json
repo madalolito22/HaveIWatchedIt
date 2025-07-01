@@ -5,7 +5,7 @@
       "Título": "Capitán América: Primer Vengador",
       "Año/Eventos": "1943-1945",
       "Tipo": "Película",
-      "Estado": "Visto",
+      "Estado": "Pendiente",
       "image": "https://image.tmdb.org/t/p/original/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
       "parent": "Marvel"
     },
@@ -644,7 +644,7 @@
       "Año/Eventos": "2024",
       "Tipo": "Película",
       "Estado": "Pendiente",
-      "image": "",
+      "image": "/images/212908.jpg",
       "id": "9a7f",
       "parent": "Marvel"
     },
